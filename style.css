@@ -10,6 +10,7 @@
     background-image: linear-gradient(rgb(224, 92, 114), rgb(236, 52, 82));
     padding: 10px 30px;
     border: none;
+    border-radius: 5px;
 
     font-size: 15px;
     text-transform: uppercase;
