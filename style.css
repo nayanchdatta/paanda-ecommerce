@@ -31,6 +31,10 @@
     width: 100px;
     height: 100px;
 }
+.backpack-section img{
+    width: 300px;
+    height: auto;
+}
 .cat1{
     background-image: linear-gradient(rgb(211, 175, 16), rgb(230, 209, 26));
 }
